@@ -23,3 +23,8 @@
 
 
 __String__
+
+
+[一个连接](http://google.com)
+
+![一张图片](/path/to/img.jpg)
