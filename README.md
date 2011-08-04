@@ -10,14 +10,14 @@
 * Sizes
 * Shaps
 * Colors
-    *Blue
+    * Blue
     * Green
 
 
-1.First
-2.Second
-3.Third
-   1.Alpha
-   2.Bravo
+1. First
+2. Second
+3. Third
+   1. Alpha
+   2. Bravo
 
 __String__
