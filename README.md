@@ -14,9 +14,9 @@
     * Green
 
 
-1.First
-2. Second
-3. Third
+ 1. First
+ 2. Second
+ 3. Third
   
 
 __String__
